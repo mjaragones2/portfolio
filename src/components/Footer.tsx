@@ -12,7 +12,7 @@ function Footer() {
 
 				<div className="footer-links">
 					<a href="mailto:aragones.markj25425@gmail.com">aragones.markj25425@gmail.com</a>
-					<a href="/Aragones_MarkJoshua_CV.pdf" target="_blank" rel="noreferrer">
+					<a href="portfolio/Aragones_MarkJoshua_CV.pdf" target="_blank" rel="noreferrer">
 						View CV
 					</a>
 					<a href="https://github.com/mjaragones2" target="_blank" rel="noreferrer">
